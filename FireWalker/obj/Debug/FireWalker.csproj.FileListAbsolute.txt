@@ -1,0 +1,11 @@
+D:\code\fire-walker\FireWalker\bin\Debug\FireWalker.exe.config
+D:\code\fire-walker\FireWalker\bin\Debug\FireWalker.exe
+D:\code\fire-walker\FireWalker\bin\Debug\FireWalker.pdb
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.csprojAssemblyReference.cache
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.splashForm.resources
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.mainForm.resources
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.Properties.Resources.resources
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.csproj.GenerateResource.cache
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.csproj.CoreCompileInputs.cache
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.exe
+D:\code\fire-walker\FireWalker\obj\Debug\FireWalker.pdb
